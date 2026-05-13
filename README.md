@@ -1,4 +1,4 @@
-# Finance_-Performance_-Dashboard
+# Finance_Performance_Dashboard
 Interactive Power BI dashboard for financial analysis and reporting.
 ## Features
 - Revenue analysis
